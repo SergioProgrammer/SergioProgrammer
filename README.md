@@ -39,7 +39,7 @@ Vengo del marketing y di el salto al desarrollo porque me cansé de pedir webs e
 - **[SQStudio](https://sqstudio.es)** — estudio web especializado en landing pages y webs a medida.
 - **[Procesia](https://procesia.pro)** — optimizamos procesos de producción creando módulos a medida dentro de nuestra propia aplicación.
 
-Estoy estudiando **Ciencias de la Computación** mientras saco producto real adelante. Trabajo end-to-end: desde hablar con el cliente hasta desplegar.
+Estoy estudiando **Ingeniería Informática** mientras saco producto real adelante. Trabajo end-to-end: desde hablar con el cliente hasta desplegar.
 
 Me muevo bien con **Astro**, **Next.js** y **React + TypeScript** en frontend, y con **Node/Express + Supabase** en backend. Me importa la UI limpia, los tiempos de carga rápidos y que el código se entienda al volver a abrirlo seis meses después.
 
@@ -57,6 +57,16 @@ Me muevo bien con **Astro**, **Next.js** y **React + TypeScript** en frontend, y
 | **Pigmalión Gabinete** — Web del gabinete | Astro · TypeScript | [pigmaliongabinete.es](https://pigmaliongabinete.es) |
 | **SQStudio** — Landing del estudio | Astro · TypeScript | [sqstudio.es](https://sqstudio.es) · [repo](https://github.com/SergioProgrammer/sqlanding) |
 | **Universidad de La Laguna · UNED** — Webs oficiales | — | *Privado / no público* |
+
+---
+
+### 🤝 Collaborations / Colaboraciones
+
+| Proyecto | Descripción | Repo |
+|---|---|---|
+| **WASAS** | Proyecto europeo de la Universidad de La Laguna junto al club profesional de voley y la asociación de Chipre | [danielalvarezm/wasas](https://github.com/danielalvarezm/wasas) |
+| **WASAS Dashboard** | Dashboard para mantenimiento de noticias del proyecto WASAS | [letorguez/wasas-dashboard](https://github.com/letorguez/wasas-dashboard) |
+| **Gabinete Pigmalión (Tenerife)** | Web del gabinete referente en Tenerife — mentoring a una diseñadora gráfica en su primer proyecto web | [sara-qr/gabinete-tenerife](https://github.com/sara-qr/gabinete-tenerife) |
 
 ---
 
