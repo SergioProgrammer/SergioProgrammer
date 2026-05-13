@@ -52,6 +52,7 @@ Me muevo bien con **Astro**, **Next.js** y **React + TypeScript** en frontend, y
 | Proyecto | Stack | Link |
 |---|---|---|
 | **Procesia** — App de optimización de procesos productivos con módulos a medida (repo privado) | Next.js · TypeScript · Supabase | [procesia.pro](https://procesia.pro) |
+| **NK-Hybrid** — Proyecto interno (repo privado) | Next.js · TypeScript | *Privado* |
 | **Clínica Barajas** — Web oficial de la clínica | Astro · TypeScript | [clinicabarajas.com](https://clinicabarajas.com) · [repo](https://github.com/SergioProgrammer/cbarajas) |
 | **Pigmalión Gabinete** — Web del gabinete | Astro · TypeScript | [pigmaliongabinete.es](https://pigmaliongabinete.es) |
 | **SQStudio** — Landing del estudio | Astro · TypeScript | [sqstudio.es](https://sqstudio.es) · [repo](https://github.com/SergioProgrammer/sqlanding) |
