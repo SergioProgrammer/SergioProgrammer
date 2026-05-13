@@ -54,7 +54,6 @@ Me muevo bien con **Astro**, **Next.js** y **React + TypeScript** en frontend, y
 | **Procesia** — App de optimización de procesos productivos con módulos a medida (repo privado) | Next.js · TypeScript · Supabase | [procesia.pro](https://procesia.pro) |
 | **NK-Hybrid** — Proyecto interno (repo privado) | Next.js · TypeScript | *Privado* |
 | **Clínica Barajas** — Web oficial de la clínica | Astro · TypeScript | [clinicabarajas.com](https://clinicabarajas.com) · [repo](https://github.com/SergioProgrammer/cbarajas) |
-| **Pigmalión Gabinete** — Web del gabinete | Astro · TypeScript | [pigmaliongabinete.es](https://pigmaliongabinete.es) |
 | **SQStudio** — Landing del estudio | Astro · TypeScript | [sqstudio.es](https://sqstudio.es) · [repo](https://github.com/SergioProgrammer/sqlanding) |
 | **Universidad de La Laguna · UNED** — Webs oficiales | — | *Privado / no público* |
 
@@ -66,7 +65,7 @@ Me muevo bien con **Astro**, **Next.js** y **React + TypeScript** en frontend, y
 |---|---|---|
 | **WASAS** | Proyecto europeo de la Universidad de La Laguna junto al club profesional de voley y la asociación de Chipre | [danielalvarezm/wasas](https://github.com/danielalvarezm/wasas) |
 | **WASAS Dashboard** | Dashboard para mantenimiento de noticias del proyecto WASAS | [letorguez/wasas-dashboard](https://github.com/letorguez/wasas-dashboard) |
-| **Gabinete Pigmalión (Tenerife)** | Web del gabinete referente en Tenerife — mentoring a una diseñadora gráfica en su primer proyecto web | [sara-qr/gabinete-tenerife](https://github.com/sara-qr/gabinete-tenerife) |
+| **Gabinete Pigmalión (Tenerife)** | Web del gabinete referente en Tenerife — mentoring a una diseñadora gráfica en su primer proyecto web · [pigmaliongabinete.es](https://pigmaliongabinete.es) | [sara-qr/gabinete-tenerife](https://github.com/sara-qr/gabinete-tenerife) |
 
 ---
 
