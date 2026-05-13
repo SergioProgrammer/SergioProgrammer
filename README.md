@@ -39,7 +39,7 @@ Vengo del marketing y di el salto al desarrollo porque me cansé de pedir webs e
 - **[SQStudio](https://sqstudio.es)** — estudio web especializado en landing pages y webs a medida.
 - **[Procesia](https://procesia.pro)** — optimizamos procesos de producción creando módulos a medida dentro de nuestra propia aplicación.
 
-Estoy estudiando **Ingeniería Informática** mientras saco producto real adelante. Trabajo end-to-end: desde hablar con el cliente hasta desplegar.
+Estoy estudiando **Ciencias de la Computación** mientras saco producto real adelante. Trabajo end-to-end: desde hablar con el cliente hasta desplegar.
 
 Me muevo bien con **Astro**, **Next.js** y **React + TypeScript** en frontend, y con **Node/Express + Supabase** en backend. Me importa la UI limpia, los tiempos de carga rápidos y que el código se entienda al volver a abrirlo seis meses después.
 
